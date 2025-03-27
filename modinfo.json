@@ -4,9 +4,9 @@
     "id": "MMA",
     "name": "Mythical Martial Arts",
     "authors": [ "Photoloss" ],
-    "maintainers": [ "Hymore246" ],
+    "maintainers": [ "Vegetabs" ],
     "description": "A collection of fictional, mythologically inspired or otherwise unrealistic martial arts.",
     "category": "misc_additions",
-    "dependencies": [ "dda" ]
+    "dependencies": [ "tlg" ]
   }
 ]
