@@ -42,7 +42,7 @@
       "mma_tec_desert_wind_spin",
       "mma_tec_desert_wind_wide"
     ],
-    "weapon_category": [ "MACES", "EXEMPLAR_WEAPON_DESERT_WIND", "SPEARS" ]
+    "weapon_category": [ "EXEMPLAR_WEAPON_DESERT_WIND", "SPEARS" ]
   },
   {
     "type": "martial_art",
@@ -536,7 +536,7 @@
       }
     ],
     "techniques": [ "mma_tec_stone_dragon_hammer", "mma_tec_stone_dragon_strike", "mma_tec_stone_dragon_colossus" ],
-    "weapon_category": [ "MACES", "GREAT_SWORDS", "GREAT_AXES", "EXEMPLAR_WEAPON_STONE_DRAGON" ]
+    "weapon_category": [ "GREAT_SWORDS", "GREAT_AXES", "EXEMPLAR_WEAPON_STONE_DRAGON" ]
   },
   {
     "type": "martial_art",
