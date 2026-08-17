@@ -5,11 +5,6 @@
     "copy-from": "exotic_books",
     "extend": {
       "items": [
-        [ "manual_centipede", 25 ],
-        [ "manual_lizard", 25 ],
-        [ "manual_scorpion", 25 ],
-        [ "manual_toad", 25 ],
-        [ "manual_venom_snake", 25 ],
         [ "manual_mma_desert_wind", 25 ],
         [ "manual_mma_diamond_mind", 25 ],
         [ "manual_mma_iron_heart", 25 ],
@@ -29,11 +24,6 @@
     "copy-from": "dojo_manuals",
     "extend": {
       "items": [
-        [ "manual_centipede", 1 ],
-        [ "manual_lizard", 1 ],
-        [ "manual_scorpion", 1 ],
-        [ "manual_toad", 1 ],
-        [ "manual_venom_snake", 1 ],
         [ "manual_mma_desert_wind", 1 ],
         [ "manual_mma_diamond_mind", 1 ],
         [ "manual_mma_iron_heart", 1 ],
